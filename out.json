@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "zip": 38357,
+    "country": "USA",
+    "state": "Tennessee",
+    "state_abbreviation": "TN",
+    "city": "Michie",
+    "province": null,
+    "region": null
+  },
+  {
+    "id": 0,
+    "zip": 47469,
+    "country": "USA",
+    "state": "Indiana",
+    "state_abbreviation": "IN",
+    "city": "West Baden Sprin",
+    "province": null,
+    "region": null
+  },
+  {
+    "id": 0,
+    "zip": 51553,
+    "country": "USA",
+    "state": "Iowa",
+    "state_abbreviation": "IA",
+    "city": "Minden",
+    "province": null,
+    "region": null
+  },
+  {
+    "id": 0,
+    "zip": 41829,
+    "country": "USA",
+    "state": "Kentucky",
+    "state_abbreviation": "KY",
+    "city": "Kona",
+    "province": null,
+    "region": null
+  },
+  {
+    "id": 0,
+    "zip": 12589,
+    "country": "USA",
+    "state": "New York",
+    "state_abbreviation": "NY",
+    "city": "Wallkill",
+    "province": null,
+    "region": null
+  }
+]
