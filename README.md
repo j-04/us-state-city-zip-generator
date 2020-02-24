@@ -9,7 +9,7 @@
     In the transformed json file you might not to find some cities or zip codes.
 
 ### JSON file with list of objects:
-> https://github.com/j-04/state-city-zip-generator/states-cities-zip-codes.json
+> https://github.com/j-04/us-state-city-zip-generator/states-cities-zip-codes.json
     
 ### Data object:
 > Java
