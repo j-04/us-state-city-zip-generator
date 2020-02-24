@@ -8,10 +8,10 @@
 ## P.S.
     In the transformed json file you might not to find some cities or zip codes.
 
-###JSON file with list of objects:
+### JSON file with list of objects:
 > https://github.com/j-04/state-city-zip-generator/states-cities-zip-codes.json
     
-###Data object:
+### Data object:
 > Java
 
     class Data {
@@ -25,10 +25,10 @@
 
     class Data(var state: String? = null, var abbreviation: String? = null, var city: String? = null, var zip: List<Int>? = null)
 
-###TypeToken for Gson:
+### TypeToken for Gson:
     TypeToken<List<Data>>() {}
 
-###Technologies:
+### Technologies:
     - Kotlin 1.3.61
     - Gson 2.8.6
     - Maven
