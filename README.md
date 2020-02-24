@@ -28,6 +28,6 @@
     TypeToken<List<Data>>() {}
 
 ### Technologies:
-    - Kotlin 1.3.61
-    - Gson 2.8.6
-    - Maven
+> - Kotlin 1.3.61
+> - Gson 2.8.6
+> - Maven
